@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheldor16
+- 👋 Hi, I’m Vaibhav Singh
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning SQL and data analysis using SQL.
 - 💞️ I’m looking to collaborate on data analytics project.
